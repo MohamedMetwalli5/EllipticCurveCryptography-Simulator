@@ -1,1 +1,1 @@
-# EllipticCurveCryptography-Simulator
+# Elliptic Curve Cryptography-Simulator
