@@ -1,5 +1,6 @@
-# Elliptic Curve Cryptography-Simulator
+![License](https://img.shields.io/badge/License-MIT%20-red.svg)
 
+# Elliptic Curve Cryptography-Simulator
 ## Sample Test Case (n = 3)
 ![image](https://user-images.githubusercontent.com/58489322/199221352-8d29d745-871e-490c-9ce0-db92f36c8663.png)
 
