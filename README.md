@@ -1,6 +1,8 @@
 ![License](https://img.shields.io/badge/License-MIT%20-red.svg)
 
 # Elliptic Curve Cryptography-Simulator
+<img src="https://media2.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="55"/>
+
 ## About
 The use of elliptic curves in cryptography was suggested independently by Neal Koblitz & Victor S. Miller in 1985. Elliptic curve cryptography algorithms entered wide use in 2004.
 
